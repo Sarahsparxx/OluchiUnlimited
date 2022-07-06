@@ -1,0 +1,63 @@
+/* DEVELOPER: Sarah Ibewuike, IS117-041, Summer 2022 */
+
+html {
+    background-color: hotpink;
+}
+
+
+body {
+    background-color: hotpink;
+}
+
+div img {
+    float: left;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 0%;
+}
+
+
+main {
+    clear: left;
+}
+article {
+    padding: .5em 0;
+}
+
+article img {
+    float: right;
+    max-width: 40%;
+    min-width: 150px;
+}
+
+
+article h2 {
+    text-align: center;
+}
+article h3 {
+    text-align: left;
+}
+article p {
+    text-align: left;
+}
+
+header{
+    text-align: center;
+    font-family: Cambria;
+}
+
+header h5{
+    color: greenyellow;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+}
